@@ -1,0 +1,39 @@
+{
+    "filterCondition": {
+        "issueAffectedVersions": [],
+        "issueAssignees": [],
+        "issueComponents": [],
+        "issueFixedVersions": [],
+        "issueKeys": [],
+        "issuePriorityIds": [],
+        "issueReporters": [],
+        "issueResolutionIds": [],
+        "issueStatusIds": [],
+        "worklogCategories": [],
+        "issueTypeIds": [],
+        "labels": [],
+        "projectIds": [],
+        "projectCategoryNames": [],
+        "groupUsers": [
+            "users:currentUser"
+        ],
+        "filter": [],
+        "jql": "",
+        "searcherValue": "basic",
+        "includeSubtask": false,
+        "includeEpic": false,
+        "worklogStartDate": 0,
+        "worklogEndDate": 0
+    },
+    "selectedWorklogDetailsColumns": [
+        "jtrp_col_assignee",
+        "jtrp_col_issueKey",
+        "jtrp_col_issueSummary",
+        "jtrp_col_startTime",
+        "jtrp_col_status",
+        "jtrp_col_timeSpent",
+        "jtrp_col_type",
+        "jtrp_col_user",
+        "jtrp_col_worklogDescription"
+    ]
+}
