@@ -34,6 +34,7 @@
         "jtrp_col_timeSpent",
         "jtrp_col_type",
         "jtrp_col_user",
-        "jtrp_col_worklogDescription"
+        "jtrp_col_worklogDescription",
+        "jtrp_col_worklogId"
     ]
 }
