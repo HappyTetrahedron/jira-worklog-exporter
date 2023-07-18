@@ -23,7 +23,7 @@ ISSUE_NUMBER_KEY = "Issue Key"
 ISSUE_TITLE_KEY = "Issue Summary"
 WORKLOG_ID_KEY = "Worklog ID"
 
-BUCKET_ISSUE_KEYS = ["ALDE-2", "ALDE-3"]
+BUCKET_ISSUE_KEYS = ["ALDE-2", "ALDE-3", "ALDE-7"]
 
 KEYS = [
     START_TIME_KEY,
@@ -34,7 +34,7 @@ KEYS = [
     WORKLOG_ID_KEY,
 ]
 
-DAYS_TO_PROCESS = 3
+DAYS_TO_PROCESS = 4
 
 def get_worklogs(token, reportfilter, from_timestamp, to_timestamp, jira):
     with open(reportfilter) as filterfile:
